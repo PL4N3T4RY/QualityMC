@@ -1,0 +1,2 @@
+# QualityMC
+QualityMC Official modpack
